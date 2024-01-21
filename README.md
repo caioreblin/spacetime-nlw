@@ -1,3 +1,3 @@
 # Linha do tempo
 
-Projeto desenvolvido baseado em 5 aulas disponibilizados de forma gratuira pela rocketseat.
+Projeto desenvolvido baseado em 5 aulas disponibilizadas de forma gratuira pela Rocketseat.
